@@ -1,1 +1,1 @@
-thats my code
+thats my code add new button to the app.js file. You can add a new button by creating a button element and appending it to the DOM. Here's an example of how you can do that:
